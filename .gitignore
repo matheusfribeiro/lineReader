@@ -1,0 +1,5 @@
+.env
+positions.json
+results.json
+
+/node_modules

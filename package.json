@@ -1,0 +1,21 @@
+{
+  "name": "linereader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lineReader.js",
+    "positions": "node capturePositions.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "global-mouse-events": "^1.2.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.15.0"
+  }
+}
